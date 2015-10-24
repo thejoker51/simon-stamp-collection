@@ -1,0 +1,7 @@
+# Hide private keys
+private-keys.md
+
+# Hide Mac System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
